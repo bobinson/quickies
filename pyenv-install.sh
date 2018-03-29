@@ -5,7 +5,7 @@
 git clone https://github.com/pyenv/pyenv.git ~/.pyenv
 
 echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bashrc
-echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bash
+echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bashrc
 
 
 # Add pyenv init to your shell to enable shims and autocompletion
