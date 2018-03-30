@@ -1,6 +1,8 @@
 #!/bin/bash
 # for ubuntu
 
+#for SQLite support
+# apt install libsqlite3-dev
 
 git clone https://github.com/pyenv/pyenv.git ~/.pyenv
 
