@@ -1,1 +1,1 @@
-apt install build-essential clang
+apt install build-essential clang libssl-dev zlib1g-dev libncurses5-dev libreadline-dev unzip zip
