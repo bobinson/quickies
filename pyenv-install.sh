@@ -16,3 +16,8 @@ echo -e 'if command -v pyenv 1>/dev/null 2>&1; then\n  eval "$(pyenv init -)"\nf
 
 
 exec "$SHELL"
+
+echo "run your shell again or logout login\n"
+
+echo "if you are running bash, just run source ~/.bashrc from your prompt"
+
